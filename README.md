@@ -1,16 +1,14 @@
-## Hi there 👋
+Header
+## Привет, меня зовут Гера!
+Я начинающий тестировщик 
 
-<!--
-**gerasalut/gerasalut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Мое резюме
+[ссылка на мое резюме](https://drive.google.com/file/d/1_4y2TPXBTl1Mq8z6QnGXwqziDoy0KKcs/view?usp=sharing)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Тестовая документация:
+[Checklist](https://docs.google.com/spreadsheets/d/1JLqMB9EOaemfAtcbe3SGHT3B7rv2tpn27vLOECz2awM/edit?usp=sharing)
+
+
+
+
