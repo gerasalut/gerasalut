@@ -14,10 +14,12 @@
 
 #### Языки и инструменты
 
-![Header](https://img.shields.io/badge/Git-090909)
-![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-bagde&logo=googlechrome&logoColor=2674f2&)
+![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-bagde&logo=googlechrome&logoColor=ded416)
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-bagde&logo=Jira&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-bagde&logo=Postman&logoColor=e67d1c)
-![Header](https://img.shields.io/badge/Python-090909?style=for-the-bagde&logo=Python&logoColor=2674f2)
-![Header](https://img.shields.io/badge/Android%20Studio-090909?style=for-the-bagde&logo=androidstudio&logoColor=2674f2)
+![Header](https://img.shields.io/badge/Python-090909?style=for-the-bagde&logo=Python&logoColor=0888bf)
+![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-bagde&logo=MySQL&logoColor=f8fcf7)
+![Header](https://img.shields.io/badge/Git-090909)
+![Header](https://img.shields.io/badge/YouTrack-090909?style=for-the-bagde&logo=youtrack&logoColor=0888bf)
+![Header](https://img.shields.io/badge/Android%20Studio-090909?style=for-the-bagde&logo=androidstudio&logoColor=28a608)
 ![Header](https://img.shields.io/badge/Charles%20Proxy-090909?style=for-the-bagde&logo=charlesproxy&logoColor=2674f2)
