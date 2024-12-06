@@ -10,6 +10,12 @@
 - [Checklist](https://docs.google.com/spreadsheets/d/1JLqMB9EOaemfAtcbe3SGHT3B7rv2tpn27vLOECz2awM/edit?usp=sharing)
 - [Bug reports](https://salutgera.youtrack.cloud/issues?q=project:%20%7BPlatform%20Classbe.ru%7D%20state:%20%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%B0)
 
+#### **Find The Differences** - мобильная игра для Android в жанре поиска отличий
+- [Checklist](https://docs.google.com/spreadsheets/d/1R9XnOsdir3LPSr_QJxra1_SEexEJEBQD3hlhrCvlxDg/edit?usp=sharing)
+>Чек-лист для регресс-теста настроек игры
+- [Bug reports](https://docs.google.com/spreadsheets/d/1AjriT9KFCFg_2dq_dKCAcjtoy7mAOBd3K4ZOYW-WgH4/edit?usp=sharing)
+
+
 ## Языки и инструменты
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-bagde&logo=googlechrome&logoColor=ded416)
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-bagde&logo=Jira&logoColor=2674f2)
